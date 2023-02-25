@@ -17,7 +17,7 @@ public class Calorias
         calorias[5]= Integer.parseInt(JOptionPane.showInputDialog("Ingrese el número de calorias del día sabado: "));
         calorias[6]= Integer.parseInt(JOptionPane.showInputDialog("Ingrese el número de calorias del día domingo: "));
 
-        
+            
     }
 
 }
